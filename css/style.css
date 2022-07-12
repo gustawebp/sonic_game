@@ -1,3 +1,7 @@
+body{
+    background: linear-gradient(#e0f6ff, #87ceeb);
+}
+
 .game-box{
     width: 100%;
     border-bottom: 15px solid green;
@@ -108,5 +112,6 @@ button:hover{
     margin: auto;
     text-align: center;
     text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-shadow: 1px 1px 6px black;
 }
